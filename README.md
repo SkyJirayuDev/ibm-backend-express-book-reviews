@@ -90,7 +90,7 @@ _Screenshots will be taken during testing with Postman for peer review submissio
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/SkyJirayuDev/ibm-backend-express-book-reviews.git>
 cd final_project
 ```
 
@@ -168,4 +168,4 @@ Created by **SkyJirayuDev** for the IBM Frontend Development with React course.
 
 - ➡️ [My Portfolio Website](https://sky-personal-portfolio-website.netlify.app)
 
-- ➡️ [My Certificate](https://coursera.org/share/907b41020c37e355175d716b510fc613)
+- ➡️ [My Certificate](https://coursera.org/share/649d197689c414f972f623f8d1a7e5bd)
